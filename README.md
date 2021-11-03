@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selgik
-- 👀 I’m interested in SQL, Tableau, VBA/Micro
+- 👀 I’m interested in SQL, Tableau, VBA/Micro, Automation
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate data analysis and/or visualization projects!
 - 📫 How to reach me: sylviahk416@gmail.com
