@@ -1,5 +1,5 @@
-### Check out below data analytic projects for your inspiration!
--  👀  How to interpret results from survey? Go to Prepare-survey 
+### Check out below data analytic projects for your inspiration 👀! 
+-  📋  How to interpret results from survey? Go to Prepare-survey 
 -  ⏰  How to reduce time and error working in Excel? Go to Automate-data-entry 
 -  🧹  How to clean and prepare data for analysis? Go to SQL-practice 
 -  📊  How to visualize findings? Go to Data-visualization 
