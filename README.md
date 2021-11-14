@@ -1,4 +1,4 @@
-👋  Hi, I'm Sylvia!  Here I posted data analytics projects for your inspiration!
+Hi, I'm Sylvia 👋 Here I posted data analytics projects for your inspiration!
 -  👀  How to interpret results from survey? Go to Prepare-survey 
 -  ⏰  How to reduce time and error working in Excel? Go to Automate-data-entry 
 -  🧹  How to clean and prepare data for analysis? Go to SQL-practice 
