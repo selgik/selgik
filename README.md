@@ -1,10 +1,11 @@
-#### 👋 Hi, I'm Sylvia! Here I posted data analytics projects for your inspiration!
+### Data analytic projects in this page include:
 -  👀  How to interpret results from survey? Go to Prepare-survey 
 -  ⏰  How to reduce time and error working in Excel? Go to Automate-data-entry 
 -  🧹  How to clean and prepare data for analysis? Go to SQL-practice 
 -  📊  How to visualize findings? Go to Data-visualization 
 
 <!---
+👋 Hi, I'm Sylvia! Here I posted data analytics projects for your inspiration!
 - 👋 Hi, I’m @selgik
 - 👀 I’m interested in SQL, Tableau, VBA, Automation
 - 🌱 I’m currently learning Data Analytics
