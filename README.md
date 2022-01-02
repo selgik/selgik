@@ -4,7 +4,7 @@
 -  🧹  Clean and prepare data for analysis -> SQL-practice 
 -  📊  Visualize findings -> Data-visualization 
 - :dart: Use SQL to understand data before visualizing them -> SQL-BigQuery-to-Tableau
-- :arrow_left: R basics -> R_review
+- :arrow_left: R basics -> R-review
 
 <!---
 👋 Hi, I'm Sylvia! Here I posted data analytics projects for your inspiration!
