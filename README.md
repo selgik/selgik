@@ -1,9 +1,9 @@
 ### Check out my data analytic projects 👀!
--  📋  How to interpret results from survey? Go to Prepare-survey 
--  ⏰  How to reduce time and error working in Excel? Go to Automate-data-entry 
--  🧹  How to clean and prepare data for analysis? Go to SQL-practice 
--  📊  How to visualize findings? Go to Data-visualization 
-- :dart: How to use SQL to understand data before visualizing them? Go to SQL-BigQuery-to-Tableau
+-  📋  Interpreting survey results -> Prepare-survey 
+-  ⏰  Reduce time and error working in Excel -> Automate-data-entry 
+-  🧹  Clean and prepare data for analysis -> SQL-practice 
+-  📊  Visualize findings -> Data-visualization 
+- :dart: Use SQL to understand data before visualizing them -> SQL-BigQuery-to-Tableau
 
 <!---
 👋 Hi, I'm Sylvia! Here I posted data analytics projects for your inspiration!
