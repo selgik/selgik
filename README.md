@@ -1,4 +1,4 @@
-### Currently moving contents into [portfolio blog](https://selgik.github.io/) meantime, check out my data analytic projects below 👀!
+### Moving contents into [portfolio blog](https://selgik.github.io/) at this moment! Meantime, check out my data analytic projects below 👀!
 -  📋  Interpreting survey results -> Prepare-survey 
 -  ⏰  Reduce time and error working in Excel -> Automate-data-entry 
 -  🧹  Clean and prepare data for analysis -> SQL-practice 
