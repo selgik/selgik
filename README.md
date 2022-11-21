@@ -1,11 +1,10 @@
 ### Moving contents to [blog](https://selgik.github.io/splash-page/) at this moment! Meantime, check out my data analytic projects below 👀!
 -  📋  Interpreting survey results -> Prepare-survey 
 -  ⏰  Reduce time and error working in Excel -> Automate-data-entry 
--  🧹  Clean and prepare data for analysis -> SQL-practice 
+-  🧹  Clean, prepare, validate data for analysis -> SQL-BigQuery-to-Tableau
 -  📊  Visualize findings -> Data-visualization 
-- :dart: Use SQL to understand data before visualizing them -> SQL-BigQuery-to-Tableau
 - :arrow_left: R basics -> R-practice
-
+- :fire: Python studies -> Python-practice
 <!---
 👋 Hi, I'm Sylvia! Here I posted data analytics projects for your inspiration!
 - 👋 Hi, I’m @selgik
